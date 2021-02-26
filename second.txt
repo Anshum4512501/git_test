@@ -3,6 +3,7 @@ pen
 new stuff from mater in second file
 new stuff from testing in second file
 
+<<<<<<< .merge_file_a14268
 
 
 new content added 
@@ -25,3 +26,10 @@ hiii
 
 I am adding from testing branch
 
+=======
+hiii
+
+
+
+I am adding from testing branch
+>>>>>>> .merge_file_a13760
